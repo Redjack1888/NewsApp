@@ -1,4 +1,6 @@
 # NewsApp
+![Cover](/assets/smartmockups_k7oa1158.jpg)
+
 News App (Project 8) for "Android Basics by Google Nanodegree Program" - (EU Scholarship) by Udacity
 
 ## Project Overview
@@ -14,3 +16,15 @@ This project is about combining various ideas and skills we’ve been practicing
 * Handling error cases gracefully
 * Updating information regularly
 * Doing network operations independent of the Activity lifecycle
+
+## Screenshots
+<table style="margin-left: auto; margin-right: auto;" border="0">
+<tbody>
+<tr>
+<td><img src="https://github.com/Redjack1888/NewsApp/blob/master/assets/Screenshot_1583988374.png" width="250" height="444" /></td>
+<td><img src="https://github.com/Redjack1888/NewsApp/blob/master/assets/Screenshot_1583988474.png" width="250" height="444" /></td>
+<td><img src="https://github.com/Redjack1888/NewsApp/blob/master/assets/Screenshot_1583988462.png" width="250" height="444" /></td>
+</tr>
+</tbody>
+</table>
+
